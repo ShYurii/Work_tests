@@ -14,7 +14,7 @@ public final class House implements Comparable<House> {
 
     public int compareTo(House anotherHouse)
     {
-           System.out.println( "Hello Yura" );
+           System.out.println( "Hello Yura1" );
           
        
         if (this.price == anotherHouse.price) {
